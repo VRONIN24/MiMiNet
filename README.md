@@ -26,7 +26,7 @@ Inspired by commercial tools such as the *WiFi Pineapple*, MiMiNet emphasizes **
 
 ## Hardware Requirements
 
-- USB Wi-Fi adapter supporting **monitor mode** and **AP mode**
+- USB Wi-Fi adapter(s) supporting **monitor mode** and **AP mode**
 - Linux laptop or PC  
   - **Kali Linux recommended**
 
